@@ -1,7 +1,8 @@
 ﻿// SDL2Project.cpp : Defines the entry point for the application.
 
 // Using SDL and standard IO
-#include <SDL.h>
+// #include <SDL.h>
+#include <SDL2/SDL.h>
 #include <iostream>
 
 // Screen dimension constants
